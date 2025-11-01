@@ -1,5 +1,5 @@
 # 🎯 Building Code, Building Myself
-I’m a young developer with a strong passion for **programming and technology**. I love learning new languages, frameworks, and tools — always staying up to date with the latest trends and innovations in this amazing field.
+I’m a young developer with a strong passion for **programming and technology**. I love learning new languages, frameworks, and tools, always staying up to date with the latest trends and innovations in this amazing field.
 
 ### 🚀 How It All Started
 My journey began at 17, when I discovered **web development** and realized it was my path. Since then, I’ve been continuously learning, experimenting, and building projects to sharpen my skills and creativity.
